@@ -1,7 +1,7 @@
 # demorepo
 Demo for learning Git/Github
 
-#student
+# student
 Mohit Mahara
 
 #Teacher
